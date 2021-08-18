@@ -21,7 +21,7 @@ TerrariaStealer that steal input profiles.json, achievements.dat, servers.dat, c
 - Show what programs are exists for example:
 <br/>
 
-![exists](https://user-images.githubusercontent.com/65458800/129815056-62e3be91-b229-4df0-a78d-43b053a22149.jpg)
+![exists terraria](https://user-images.githubusercontent.com/65458800/129890325-2fea2033-c5d5-4e9f-8955-3c16a8f85eea.jpg)
 
 - Show Screenshot
 ## Setup:
